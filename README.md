@@ -1,5 +1,9 @@
 # 🏥 MedSys API
 
+🔗 **Live Demo:** [https://medsys-qvpu.onrender.com](https://medsys-qvpu.onrender.com)  
+📘 **Swagger Docs:** [https://medsys-qvpu.onrender.com/api/docs/swagger/](https://medsys-qvpu.onrender.com/api/docs/swagger/)  
+📗 **ReDoc Docs:** [https://medsys-qvpu.onrender.com/api/docs/redoc/](https://medsys-qvpu.onrender.com/api/docs/redoc/)
+
 **MedSys** is a FHIR-inspired REST API for managing **patients**, **practitioners**, and **appointments** in a healthcare system.  
 Built with **Django REST Framework**, it includes **JWT authentication**, **Celery + Redis background tasks**, and **Swagger/Redoc documentation**.
 
