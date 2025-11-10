@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-&ai0u_7l&k1(u2_u6w=b_nrdccxcyi_zvy-p+m1ah5w+&j-9d$
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["medsys-qvpu.onrender.com", "localhost", "127.0.0.1"]
 
 
 # Application definition
